@@ -1,0 +1,9 @@
+SNAP-REPO=vprofile-snapshot
+NEXUS-USER=admin
+NEXUS-PASS=Victory@1
+RELEASE-REPO=vprofile-release
+CENTRAL-REPO=vpro-maven-central
+NEXUS-GRP-REPO=vpro-maven-group
+NEXUSIP=172.31.18.246
+NEXUSPORT=8081
+xoxb-3456599501072-3418260759095-tdnmLdKJssWV94qZY0cTjIDp
